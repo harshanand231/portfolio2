@@ -472,7 +472,7 @@ export default function App() {
         </main>
 
         <footer className="h-16 flex items-center justify-between px-12 text-[10px] tracking-widest uppercase opacity-40 font-mono border-t border-black/5 dark:border-white/5 dark:text-gray-500 transition-colors">
-          <div>© 2026 HARSH ANAND ARCHITECTURE</div>
+          <div>© 2026 HARSHa ANAND ARCHITECTURE</div>
           <div className="hidden md:block bg-gradient-to-r from-vibrant-blue via-vibrant-purple to-vibrant-rose h-[1px] flex-1 mx-10"></div>
           <div className="flex gap-8">
             <span className="hidden lg:inline text-accent">PRECISION · CRAFT · SYSTEMS</span>
